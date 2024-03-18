@@ -1,0 +1,12 @@
+
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+## -- BLOCK:c --
+usip
+libusip.a
+*.o
